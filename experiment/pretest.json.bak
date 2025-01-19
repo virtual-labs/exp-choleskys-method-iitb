@@ -1,0 +1,29 @@
+[
+   {
+      "question": "Cholesky's method is applicable for ",
+      "qid": 1,
+      "option_a": "any coefficient matrix",
+      "option_b": "only symetric system",
+      "option_c": "system of linear equation, if determinant is non-zero.",
+      "option_d": "diagonally dominant system",
+      "correct_option": "b"
+   },
+   {
+      "question": "Select which option is more correct in case of Cholesky's method",
+      "qid": 2,
+      "option_a": "[L][A] = [U]",
+      "option_b": "[U][A] = [L]",
+      "option_c": "[A] = [L][L<sup>T</sup>]",
+      "option_d": "[A] = [U][U<sup>T</sup>]",
+      "correct_option": "c"
+   },
+   {
+      "question": "Which is not a part of Cholesky's method",
+      "qid": 3,
+      "option_a": "Transposing the matrix",
+      "option_b": "Upper triangular matrix",
+      "option_c": "Lower triangular matrix",
+      "option_d": "Back substitution method",
+      "correct_option": "a"
+   }
+]
